@@ -1,0 +1,36 @@
+
+.container{
+
+  width: 100%;
+  background-color: #fff;
+  padding: 5rem;
+  border: 2px solid #0062D1;
+  padding: 20px; 
+}
+  
+h1{
+    font-size: 36px;
+  color: #00499C;
+}
+
+h2{
+      font-size: 12px;
+      line-height: 0.3;
+
+}
+h3{
+        font-size: 14px;
+      line-height: 0;
+  font-style: bold;
+  color: #0062D1;
+}
+li{
+      font-size: 12px;
+      line-height: 1.2;
+}
+h4{
+      font-size: 18px;
+      line-height: 1.2  
+
+  
+}
